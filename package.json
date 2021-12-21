@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"description": "This is a sample package.json file for FCC Learn",
 	"author": "Rohan Prabhu",
 	"main": "server.js",
 	"scripts": {
