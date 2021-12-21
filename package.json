@@ -4,6 +4,12 @@
 		"express": "^4.14.0"
 	},
 	"description": "This is a sample package.json file for FCC Learn",
+	"keywords": [
+		"sample",
+		"package",
+		"json",
+		"freecodecamp"
+	],
 	"author": "Rohan Prabhu",
 	"main": "server.js",
 	"scripts": {
